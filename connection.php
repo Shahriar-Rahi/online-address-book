@@ -4,7 +4,7 @@
  */
 
 $databaseHost = 'remotemysql.com';
-$databaseName = 'addbook';
+$databaseName = 'x1aPGuDxqi';
 $databaseUsername = 'x1aPGuDxqi';
 $databasePassword = '6rmui1SWml';
 
