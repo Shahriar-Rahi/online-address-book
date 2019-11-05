@@ -3,10 +3,10 @@
  * using mysqli_connect
  */
 
-$databaseHost = 'localhost';
-$databaseName = 'addbook';
-$databaseUsername = 'root';
-$databasePassword = '';
+$databaseHost = 'remotemysql.com';
+$databaseName = 'x1aPGuDxqik';
+$databaseUsername = 'x1aPGuDxqi';
+$databasePassword = '6rmui1SWml';
 
 $mysqli = mysqli_connect(
 	$databaseHost, 
