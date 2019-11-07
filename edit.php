@@ -23,7 +23,7 @@ if(isset($_POST['update'])){
 		}
 		
 		if(empty($address)) {
-			echo "<font color='red'>Quantity field is empty.</font><br/>";
+			echo "<font color='red'>Address field is empty.</font><br/>";
 		}
 		
 		if(empty($phone)) {
